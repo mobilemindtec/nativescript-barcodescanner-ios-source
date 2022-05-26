@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "BarcodeScannerFramework"
+  s.name         = "NativeScriptBarcodeScanner"
   s.version      = "0.0.1"
   s.summary      = "NativeScript barcode scanner."
   s.description  = "NativeScript barcode scanner."
